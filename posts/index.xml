@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alessandro Barbieri</title>
+    <link>https://alessandro-barbieri.com/posts/</link>
+    <description>Recent content in Posts on Alessandro Barbieri</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Sep 2020 17:27:59 +0700</lastBuildDate>
+    <atom:link href="https://alessandro-barbieri.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post cuz why not</title>
+      <link>https://alessandro-barbieri.com/posts/first-post-cuz-why-not/</link>
+      <pubDate>Thu, 03 Sep 2020 17:27:59 +0700</pubDate>
+      <guid>https://alessandro-barbieri.com/posts/first-post-cuz-why-not/</guid>
+      <description>&lt;h2 id=&#34;headers&#34;&gt;Headers&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3&#34;&gt;h3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4&#34;&gt;h4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;this-is-a-heading-h5&#34;&gt;This is a Heading h5&lt;/h5&gt;&#xA;&lt;p&gt;prova&lt;/p&gt;&#xA;&lt;h2 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;This text will be italic&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;This will also be italic&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;This text will be bold&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;This will also be bold&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;You &lt;strong&gt;can&lt;/strong&gt; combine them&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
